@@ -5,13 +5,13 @@ In the realm of communication networks, the effectiveness of congestion control 
 
 ## Requirements
 - **NS2 (Network Simulator 2):** Version 2.35 is required to execute the NS script.
-  - Download NS2: [((https://www.nsnam.com/2020/06/installation-of-ns2-ns-235-in-ubuntu.html))]
+  - Download NS2: [https://www.nsnam.com/2020/06/installation-of-ns2-ns-235-in-ubuntu.html]
 
 ## Execution
 To run the simulation, follow these steps:
 
 1. Run the NS script using ns2.35:
-'ns nsanet.tcl'
+'''ns nsanet.tcl'''
 
 2. Generate the trace file using Nam:
 'nam sanet.nam'
