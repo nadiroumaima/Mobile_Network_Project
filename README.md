@@ -23,7 +23,7 @@ To run the simulation, follow these steps:
 4. Visualize the output using plot.py.
 
 ## Visualization
-To visualize the results, utilize the provided `plot.py` script. Customize and execute it based on your preferences and requirements.
+To visualize the results, utilize the provided plot.py script. Customize and execute it based on your preferences and requirements.
 
 ## Note
 Ensure that all the required dependencies, including NS2 version 2.35, are properly installed before running the simulation and visualization scripts.
