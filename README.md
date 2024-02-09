@@ -11,13 +11,13 @@ In the realm of communication networks, the effectiveness of congestion control 
 To run the simulation, follow these steps:
 
 1. Run the NS script using ns2.35:
-'''ns nsanet.tcl'''
+`ns nsanet.tcl`
 
 2. Generate the trace file using Nam:
-'nam sanet.nam'
+`nam sanet.nam`
 
 3. Use AWK script to filter the trace file and redirect the output:
-'awk -f script_output.awk sanet.tr > output.txt'
+`awk -f script_output.awk sanet.tr > output.txt`
 
 
 4. Visualize the output using plot.py.
