@@ -20,7 +20,7 @@ To run the simulation, follow these steps:
 `awk -f script_output.awk sanet.tr > output.txt`
 
 
-4. Visualize the output using plot.py.
+4. Visualize the output using plots.py.
 
 ## Visualization
 To visualize the results, utilize the provided plot.py script. Customize and execute it based on your preferences and requirements.
